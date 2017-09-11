@@ -1,6 +1,4 @@
 /*
- * Copyright (C) 2017, Liberty Mutual Group
- *
  * Created on Sep 9, 2017
  */
 
@@ -13,7 +11,7 @@ import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
 
 /**
- * @author n0235650
+ * @author Guy Turner
  *
  */
 public class TesseractApplication {
